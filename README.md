@@ -1,4 +1,4 @@
-Enterprise Ape
+railsEnterprise Ape
 ==============
 
 Powerful Software
